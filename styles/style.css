@@ -92,7 +92,7 @@ body {
 }
 
 .confirmed-img{
-    background-image: url(img/confirmed.png);
+    background-image: url(/img/confirmed.png);
     width: 100%;
     height: 100%;
     display: flex;
@@ -101,7 +101,7 @@ body {
 }
 
 .progress-img{
-    background-image: url(img/progress.png);
+    background-image: url(/img/progress.png);
     width: 100%;
     height: 100%;
     display: flex;
@@ -110,7 +110,7 @@ body {
 }
 
 .pending-img{
-    background-image: url(img/pending.png);
+    background-image: url(/img/pending.png);
     width: 100%;
     height: 100%;
     display: flex;
